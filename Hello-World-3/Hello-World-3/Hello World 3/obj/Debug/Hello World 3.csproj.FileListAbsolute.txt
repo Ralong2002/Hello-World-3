@@ -1,0 +1,7 @@
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\bin\Debug\Hello World 3.exe.config
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\bin\Debug\Hello World 3.exe
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\bin\Debug\Hello World 3.pdb
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\obj\Debug\Hello World 3.csproj.AssemblyReference.cache
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\obj\Debug\Hello World 3.csproj.CoreCompileInputs.cache
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\obj\Debug\Hello World 3.exe
+C:\Users\w0455811\OneDrive - Nova Scotia Community College\HelloWorld2 (GitHub test)\Hello-World-3\Hello World 3\obj\Debug\Hello World 3.pdb
